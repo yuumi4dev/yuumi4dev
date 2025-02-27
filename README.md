@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm from Korea<br>🔭 I’m currently studing in middle school<br>🌱 I’m currently learning front-end and back-end
+👋 I'm from Korea<br>🔭 I’m currently studing in high school <br>🌱 I’m currently learning front-end and back-end
 
 
 # 💻 Tech Stack:
@@ -18,8 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yuumi4dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuumi4dev&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
